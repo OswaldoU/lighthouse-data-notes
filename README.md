@@ -6,5 +6,6 @@ This repository contains all of the notes taken by [Oswaldo](https://github.com/
 
 
 # Table of Contents 
-* Python Course
-    * Unit 1  
+ Python Course
+* [Unit 1](/Unit_1)
+    * [Day 1](/Unit_1/Day_1) 
